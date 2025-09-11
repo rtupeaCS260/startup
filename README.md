@@ -1,4 +1,4 @@
-# Your startup name here
+# Rugby World Finder
 
 [My Notes](notes.md)
 
