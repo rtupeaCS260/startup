@@ -39,7 +39,7 @@ I am going to use the required technologies in the following ways.
 	•	alerts - manage custom notifications for Rugby Union and League.
 	•	localization - adjust match times and content to user’s time zone and language.
 - **DB/Login** - Store users, teams, matches, and preferences securely. Register and login users. Credentials securely stored in database. Can't access personalized calendars, notifications, and preferences unless authenticated.
-- **WebSocket** - Description here
+- **WebSocket** - Real-time rugby updates. Live commentary and statistics. Broadcast alerts/notifications instantly to all users following a match. Sync personalized calendars in real-time (if a match is rescheduled, update instantly). 
 
 ## 🚀 AWS deliverable
 
