@@ -6,7 +6,7 @@ A hub for Rugby. Have the world of Rugby all in one place. For all men and women
 
 ### Elevator pitch
 
-Have you ever struggled to find your favorite rugby games or teams. Everyone across the world is using Rugby Atlas for all things rugby. Find your favorite teams or players from Men and Women's Rugby Union or Rugby League or both! Stay updated on team schedules, matches, or even player stats! You can create a personalized calendar so you never miss a thing.
+Have you ever struggled to find your favorite rugby games or teams. Everyone across the world is using Rugby Atlas for all things rugby. Watch your favorite teams or players from Men and Women's Rugby Union or Rugby League or both anywhere! Stay updated on team schedules, matches, or even player stats! You can create a personalized calendar so you never miss a thing.
 
 ### Design
 
