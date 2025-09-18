@@ -29,7 +29,7 @@ I am going to use the required technologies in the following ways.
 
 - **HTML** - Uses correct HTML structure for application. Two HTML pages. One for login and for dashboard. Dashboard page displays personalized calendar Team/match choices, Links to interactive map & past matches. Hyperlinks to choice artifact.
 - **CSS** - Application looks good on different screen sizes. Uses good whitespace to separate team cards, stat boxes, and match timelines. Color choice and contrast to separate between Rugby Union and Rugby League themes. Clear alert styling for real-time notifications
-- **React** - Description here
+- **React** - Provides login, Calendar to create personalized calendars, Match display to show live commentary, statistics, and previous match statistics. Alerts for custom notifications for favorite teams/matchups/players. Map for interactive map to show teams and stadiums around the globe. Language to toggle commentary and toggle languages. Use of React for routing and components.
 - **Service** - Description here
 - **DB/Login** - Description here
 - **WebSocket** - Description here
