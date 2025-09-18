@@ -15,9 +15,13 @@ Have you ever struggled to find your favorite rugby games or teams. Everyone acr
 
 ### Key features
 
-- Describe your key feature
-- Describe your key feature
-- Describe your key feature
+- Create personalized calendars for Rugby Union and Rugby League
+- Access matches, or tests from previous years
+- Watch in different languages
+- Real-time commentary and statistics
+- Custom alerts for Rugby League and Rugby Union
+- Localization to adjust for time zones
+- Interactive map for Rugby Union and Rugby League
 
 ### Technologies
 
