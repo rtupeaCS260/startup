@@ -27,7 +27,7 @@ Have you ever struggled to find your favorite rugby games or teams. Everyone acr
 
 I am going to use the required technologies in the following ways.
 
-- **HTML** - Description here
+- **HTML** - Uses correct HTML structure for application. Two HTML pages. One for login and for dashboard. Dashboard page displays personalized calendar Team/match choices, Links to interactive map & past matches. Hyperlinks to choice artifact.
 - **CSS** - Description here
 - **React** - Description here
 - **Service** - Description here
