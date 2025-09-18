@@ -10,7 +10,7 @@ Have you ever struggled to find your favorite rugby games or teams. Everyone acr
 
 ### Design
 
-![Design image](Design.pdf)
+![Design image](Design.png)
 
 
 ### Key features
