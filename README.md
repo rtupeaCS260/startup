@@ -1,6 +1,6 @@
 # Rugby Atlas
 
-A hub for Rugby. Have the world of Rugby all in one place. For all men and women's Rugby union and Rugby league. Access all Rugby matches and events across the world and in any language. Stay updated on teams and players in Rugby Union or Rugby League or both. Create personalized calendars for your favorite teams. 
+A hub for Rugby. Have the world of Rugby all in one place. For all men and women's Rugby union and Rugby league. Access all Rugby matches and events across the world and in any language. Stay updated on teams and players in Rugby Union and Rugby League. Create personalized calendars for your favorite teams. 
 
 ## 🚀 Specification Deliverable
 
