@@ -33,12 +33,12 @@ I am going to use the required technologies in the following ways.
 - **Service** - Service with endpoints for Rugby Atlas.
 	•	login - authenticate user.
 	•	register - register new users.
-	•	matches - retrieve upcoming fixtures and historical match archives.
+	•	matches - retrieve upcoming events and historical match archives.
 	•	teams - retrieve team and player information.
 	•	calendar - get user’s personalized rugby schedule.
 	•	alerts - manage custom notifications for Rugby Union and League.
 	•	localization - adjust match times and content to user’s time zone and language.
-- **DB/Login** - Description here
+- **DB/Login** - Store users, teams, matches, and preferences securely. Register and login users. Credentials securely stored in database. Can't access personalized calendars, notifications, and preferences unless authenticated.
 - **WebSocket** - Description here
 
 ## 🚀 AWS deliverable
