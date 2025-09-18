@@ -1,12 +1,6 @@
-# Rugby World Finder
+# Rugby Atlas
 
-[My Notes](notes.md)
-
-jalkjsdc
-jsdakj
-akjsdb
-
-
+A hub for Rugby. Have the world of Rugby all in one place. For all men and women's Rugby union and Rugby league. Access all Rugby matches and events across the world and in any language. Stay updated on teams and players in Rugby Union or Rugby League or both. Buy jerseys, gear, apparel etc. Create personalized calendars for your favorite teams. 
 
 > [!NOTE]
 >  This is a template for your startup application. You must modify this `README.md` file for each phase of your development. You only need to fill in the section for each deliverable when that deliverable is submitted in Canvas. Without completing the section for a deliverable, the TA will not know what to look for when grading your submission. Feel free to add additional information to each deliverable description, but make sure you at least have the list of rubric items and a description of what you did for each item.
