@@ -28,7 +28,7 @@ Have you ever struggled to find your favorite rugby games or teams. Everyone acr
 I am going to use the required technologies in the following ways.
 
 - **HTML** - Uses correct HTML structure for application. Two HTML pages. One for login and for dashboard. Dashboard page displays personalized calendar Team/match choices, Links to interactive map & past matches. Hyperlinks to choice artifact.
-- **CSS** - Application looks good on different screen sizes. Uses good whitespace to separate team cards, stat boxes, and match timelines. Color choice and contrast to separate between Rugby Union and Rugby League themes
+- **CSS** - Application looks good on different screen sizes. Uses good whitespace to separate team cards, stat boxes, and match timelines. Color choice and contrast to separate between Rugby Union and Rugby League themes. Clear alert styling for real-time notifications
 - **React** - Description here
 - **Service** - Description here
 - **DB/Login** - Description here
